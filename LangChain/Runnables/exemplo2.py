@@ -1,4 +1,4 @@
-from langchain_core.runnables import RunnablePassthrough, RunnableLambda, RunnableSequence, RunnableParallel
+from langchain_core.runnables import RunnablePassthrough, RunnableLambda, RunnableParallel
 
 
 def sum_5 (num):
